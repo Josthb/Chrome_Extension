@@ -1,0 +1,18 @@
+{
+
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Browser Link Extension",
+    "description": "Une extension qui permet de sauvegarder les liens durant votre navigation",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Browser Link Extension",
+        "default_icon": "img/icon.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+
+
+
+}
